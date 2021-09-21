@@ -1,3 +1,7 @@
+# Tic Tac Toe
+
+Have you ever played Tic Tac Toe in 3D? Click [here](https://sjoyee.github.io/tic-tac-toe/) to play it!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
